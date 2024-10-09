@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Samuel-Mendonca- 😁
+## Bem-vindo(a) ao perfil do Samuel-Mendonca 😁
 
  <div>
-   <a href="https://github.com/Samuel-Mendonca-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Mendonca-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mendonca-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Samuel-Mendonca">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Mendonca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Mendonca&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
